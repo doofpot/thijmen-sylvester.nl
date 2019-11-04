@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+  <%= partial "layouts/head" %>
+
+  <body id="page-top">
+
+    <!-- begin:container -->
+    <div class="container content-wrapper">
+
+    <%= partial "layouts/navbar" %>
+       <!-- begin:main-section -->
+      <div class="row">
+        <!-- begin:article -->
+        <div class="col-md-8">
+
+          <!-- begin:blog-post -->
+          <div class="content-article">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="page-title">
+                  <% if current_page.date.present? %>
+                    <div class="blog-post-date">
+                      <span><%= current_page.date.strftime('%e') %></span>
+                      <span><%= current_page.date.strftime('%b') %></span>
+                    </div>
+                  <% end %>
+                  <h2><%= current_page.data.title %></h2>
+                </div>
+
+                <% if current_page.data.carroussel.present? %>
+                  <div class="portfolio-container">
+                    <div class="portfolio-image">
+                      <%= image_tag("/"+current_page.path.chomp(".html") + "/" + current_page.data.carroussel.split(',').first, resize: '800x600', :class => "img-responsive") %>
+                      <% current_page.data.carroussel.split(',').each do | car | %>
+                        <% link_to "/"+current_page.path.chomp(".html") + "/" + car, :class => "image-zoom", :data => { :image => "image-group"} do %>
+                          <div class="portfolio-magnify"><i class="fa fa-search-plus"></i></div>                          
+                        <% end %>
+                      <% end %>
+                    </div>
+                  </div>
+                <% end %>
+
+
+                <%= yield %>
+                <%= partial "layouts/paginationprevnext" %>
+
+                <!-- begin:blog-post-tags -->
+                <% if current_page.data.tags.present? %>
+                  <div class="blog-post-tags">
+                    <strong><i class="fa fa-tags"></i> Tags :</strong>
+                    <ul class="tag-list">
+                      <% current_page.data.tags.split(',').each do |tag| %>
+                        <li><%= link_to tag, "/blog/tags/"+tag %></li>
+                      <% end %>
+                    </ul>
+                  </div>
+                <% end %>
+
+                <!-- end:blog-post-tags -->
+              </div>
+            </div>
+          </div>
+
+          <!-- end:blog-post -->
+
+        </div>
+        <!-- end:article -->
+
+        <!-- begin:sidebar -->
+        <div class="col-md-4">
+          <!-- begin:widget-sidebar -->
+          <div class="content-article">
+
+            <%= partial "layouts/recent" %>
+            <!-- break -->
+  
+            <!-- break -->
+            <%= partial "layouts/year" %>
+
+            <%= partial "layouts/category" %>
+
+            <!-- break -->
+          </div>
+          <!-- end:widget-sidebar -->
+        </div>
+        <!-- end:sidebar -->
+      </div>
+      <!-- end:main-section -->
+
+    <%= partial "layouts/footer" %>
+
+
+  </body>
+</html>

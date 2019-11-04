@@ -1,0 +1,7 @@
+.widget-sidebar.widget_recent_entries
+  .widget-title
+    %h3 Recent Posts
+
+  %ul
+    - blog.articles[0...5].each do |article|
+      %li= link_to article.title + ' ' + article.date.strftime('%b %e'), article

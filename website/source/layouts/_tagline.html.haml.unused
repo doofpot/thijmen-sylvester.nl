@@ -1,0 +1,8 @@
+.row
+  .col-md-12
+    .content-article
+      .tagline
+        %h2 Demonstratie site voor een "Wordpress blog zonder Wordpress"
+        %p
+          %strong Een alternatieve manier voor een website opzetten.
+          = link_to "Lees meer op de about pagina", "about/"

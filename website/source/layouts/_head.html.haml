@@ -1,0 +1,19 @@
+%head
+    = stylesheet_link_tag "site", media: 'all', 'data-turbolinks-track' => true
+    %meta{ :charset => "utf-8" }
+    %meta{ :content => "IE=edge", :http => { :equiv=>"X-UA-Compatible"} }
+    %meta{ :name=>"viewport", :content=>"width=device-width, initial-scale=1"}
+    %meta{ :name=>"description", :content=>"Thijmen Sylvester Schippers Personal BLOG"}
+    %meta{ :name=>"keywords", :content=>"thijmen, kind, kleuter, lagere school, hongarije, velsen"}
+    %meta{ :name=>"author", :content=>"A. Schippers"}
+    %meta{ 'http-equiv' => "Cache-control" , :content => "public", 'max-age' => 86400 }
+    %link{ :rel=>"shortcut icon", :href=>"img/favicon.png"}
+    %title
+        = 'Thijmens Blog - ' + current_article.title unless current_article.nil?
+    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "BLOG feed"
+    = javascript_include_tag :all
+
+    %link{ :href=>'http://fonts.googleapis.com/css?family=Raleway:400,700,800', :rel=>'stylesheet', :type=>'text/css'}
+    %link{ :href=>'http://fonts.googleapis.com/css?family=Kaushan+Script', :rel=>'stylesheet', :type=>'text/css'}
+    = google_analytics_tag if app.build?
+    

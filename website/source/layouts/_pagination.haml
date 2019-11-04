@@ -1,0 +1,12 @@
+- if paginate
+  .row
+    .col-md-12
+      %ul.pagination
+        %li{ :class => "#{prev_page.nil? ? 'disabled' : 'enabled'}" }
+          = link_to "<", prev_page.url if prev_page
+        - i = 1
+        - for i in 1..num_pages
+          %li{ :class => "#{page_number.eql?(i) ? 'active' : ''}" }
+            = link_to i, "/page/"+i.to_s+"/"
+        %li{ :class => "#{next_page.nil? ? 'disabled' : 'enabled'}" }
+          = link_to ">", next_page.url if next_page

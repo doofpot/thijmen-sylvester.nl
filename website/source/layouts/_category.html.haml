@@ -1,0 +1,9 @@
+.widget-sidebar.widget_archive
+	.widget-title
+		%h3 Categories
+
+		%ul
+			- blog.tags.each do |tag, articles|
+				%li
+					= link_to tag, tag_path(tag)
+					%span= articles.size
