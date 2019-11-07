@@ -1,12 +1,15 @@
 ---
-
 title: Verjaardag
 date: 2014-03-30 00:00 UTC
-tags: 
-
+tags: uitzoeken, verjaardag
+carroussel: IMG_0798.jpg,IMG_0799.jpg,IMG_0806.jpg,IMG_0807.jpg,IMG_0811.mov,IMG_0814.jpg,IMG_0815.jpg,IMG_0816.jpg,IMG_0818.jpg,IMG_0819.jpg,IMG_0820.jpg,IMG_0825.jpg,IMG_0827.jpg,IMG_0828.jpg,IMG_0830.jpg,IMG_0831.jpg,IMG_0832.jpg,IMG_0833.jpg,IMG_0834.jpg,IMG_0835.jpg,IMG_0836.jpg,IMG_0839.jpg,IMG_0840.jpg,IMG_0842.jpg,IMG_1052.jpg,IMG_1053.jpg,IMG_1055.jpg,IMG_1064.jpg,IMG_1068.jpg
 ---
+En dan is het zover. De hele familie komt. Althans we hebben een aantal mensen uitgenodigd en die verwacht Thijmen;) Het concept 'verjaardag' is nog niet helemaal duidelijk. De taart is versierd met extra kaarsjes. Het gaat namelijk niet om de twee, maar om het uitblazen van de kaarsen 
 
+Een paar filmpjes van mijn uitblaas moment en het aansnijden van de taart. 
 
-# Verjaardag
+En dan is men mijn verjaardag aan het vieren. 
 
-En dan is het zover. De hele familie komt. Althans we hebben een aantal mensen uitgenodigd en die verwacht Thijmen;) Het concept 'verjaardag' is nog niet helemaal duidelijk. De taart is versierd met extra kaarsjes. Het gaat namelijk niet om de twee, maar om het uitblazen van de kaarsen [gallery ids="1787,1788,1789,1790,1791,1792,1793,1794,1795,1796,1797,1798,1799,1800,1801,1802,1803"] Een paar filmpjes van mijn uitblaas moment en het aansnijden van de taart. [hdwplayer id=4] En dan is men mijn verjaardag aan het vieren [hdwplayer id=5] Daarna wordt er lekker gegeten, gedronken en paard gereden. En ook voldoende parkeer ruimte voor mensen met een grote auto. [gallery ids="1804,1805,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826,1827,1828,1829,1830"] En dan ook van het paardrijden nog twee filmpjes [hdwplayer id=6]
+Daarna wordt er lekker gegeten, gedronken en paard gereden. En ook voldoende parkeer ruimte voor mensen met een grote auto.
+
+En dan ook van het paardrijden nog twee filmpjes.
