@@ -1,0 +1,8 @@
+---
+
+title: Selfie
+date: 2013-11-12 00:00 UTC
+tags: fotos
+carroussel: IMG_3238.jpg,IMG_3239.jpg
+---
+Een hele saaie selfie 
