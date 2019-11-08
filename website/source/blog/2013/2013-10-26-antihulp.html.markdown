@@ -1,9 +1,8 @@
 ---
-
 title: Antihulp
 date: 2013-10-26 00:00 UTC
-tags: 
-
+tags: helpen
+carroussel: IMG_3160.jpg,IMG_3161.jpg,IMG_3162.jpg,IMG_3163.jpg,IMG_3164.jpg,IMG_3166.jpg
 ---
-
+Het vegen gaat sneller als je hulp krijgt. Vooral deze hulp doet een enorme bijdrage aan het afkrijgen van de klus
 

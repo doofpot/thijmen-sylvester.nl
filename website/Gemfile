@@ -41,3 +41,5 @@ gem "middleman-blog", "~> 4.0"
 gem 'middleman-cli'
 gem 'nokogiri'
 gem 'middleman-deploy', github: 'middleman-contrib/middleman-deploy', branch: 'master'
+gem "middleman-imageoptim", :git => "https://github.com/plasticine/middleman-imageoptim", :branch => "master"
+
