@@ -1,13 +1,20 @@
 ---
-
 title: Spelen
 date: 2013-11-04 00:00 UTC
-tags: 
-
+tags: sint-maarten
+carroussel: IMG_3210.jpg,IMG_3211.jpg,IMG_3212.jpg,IMG_3213.jpg,IMG_3214.jpg,IMG_3215.jpg,IMG_3216.jpg,IMG_3217.jpg,IMG_3221.jpg,IMG_3223.jpg,IMG_3224.jpg,IMG_3235.jpg,IMG_3236.jpg,IMG_3240.jpg,IMG_3241.jpg,IMG_3242.jpg,IMG_3244.jpg,IMG_3245.jpg
 ---
 
+Lampion
 
+In de regen
 
-# Spelen
+Op de heuvel
 
-Lampion [print_gllr id=1547] In de regen [print_gllr id=1555] Op de heuvel [print_gllr id=1559] Met oma [print_gllr id=1565] Onderweg [print_gllr id=1571] Thuis [print_gllr id=1580] Waar zijn we geweest?
+Met oma 
+
+Onderweg
+
+Thuis 
+
+Waar zijn we geweest?

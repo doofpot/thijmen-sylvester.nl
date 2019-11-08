@@ -1,6 +1,6 @@
 
-# require 'lib/markdown_helper'
-# helpers MarkdownHelper
+require 'lib/markdown_helper'
+helpers MarkdownHelper
 
 
 activate :autoprefixer do |prefix|
@@ -185,3 +185,12 @@ end
 # activate :dexterity
 # activate :middleman_simple_thumbnailer
 
+
+set :markdown_engine, :redcarpet
+set :markdown, :fenced_code_blocks => true,
+              :smartypants => true,
+              :tables => true,
+              :images => true,
+              :highlight => true,
+              :superscript => true,
+              :renderer => MarkdownHelper::MyRenderer
