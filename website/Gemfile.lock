@@ -152,6 +152,8 @@ GEM
     middleman-search_engine_sitemap (1.4.0)
       builder
       middleman-core (~> 4.0)
+    middleman-sitemap (0.0.13)
+      middleman-core (>= 3.2.2)
     middleman-sprockets (4.1.1)
       middleman-core (~> 4.0)
       sprockets (>= 3.0)
@@ -214,6 +216,7 @@ DEPENDENCIES
   middleman-minify-html
   middleman-robots
   middleman-search_engine_sitemap
+  middleman-sitemap
   middleman-sprockets
   nokogiri
   redcarpet

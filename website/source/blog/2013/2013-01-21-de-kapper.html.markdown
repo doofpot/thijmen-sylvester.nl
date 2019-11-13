@@ -4,4 +4,4 @@ date: 2013-01-21 00:00 UTC
 tags: kapper, oma
 carroussel:
 ---
-Oma probeert hier Thijmen te knippen
+Oma probeert hier Thijmen te knippen. Heel handig

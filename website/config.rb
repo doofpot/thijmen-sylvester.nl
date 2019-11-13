@@ -166,6 +166,7 @@ configure :build do
 
   # Minify Javascript on build
   activate :minify_javascript
+  activate :search_engine_sitemap
   # activate :search_engine_sitemap
   # activate :robots, :rules => [
   #   {:user_agent => '*', :allow => %w(/)}
