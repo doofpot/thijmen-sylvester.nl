@@ -15,5 +15,6 @@
 
     %link{ :href=>'http://fonts.googleapis.com/css?family=Raleway:400,700,800', :rel=>'stylesheet', :type=>'text/css'}
     %link{ :href=>'http://fonts.googleapis.com/css?family=Kaushan+Script', :rel=>'stylesheet', :type=>'text/css'}
-    = google_analytics_tag if app.build?
+    %script
+        = app.build? ? google_analytics_tag : nil
     
