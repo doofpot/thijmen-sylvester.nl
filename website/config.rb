@@ -7,6 +7,8 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+set :url_root, 'https://thijmen-sylvester.nl'
+
 
 set :css_dir,     'stylesheets'
 set :fonts_dir,   'fonts'
