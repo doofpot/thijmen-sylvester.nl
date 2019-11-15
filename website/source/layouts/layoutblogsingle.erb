@@ -27,6 +27,8 @@
                   <h2><%= current_page.data.title %></h2>
                 </div>
 
+                <%= yield %>
+
                 <% if current_page.data.carroussel.present? %>
                   <div class="portfolio-container">
                     <div class="portfolio-image">
@@ -40,8 +42,6 @@
                   </div>
                 <% end %>
 
-
-                <%= yield %>
                 <%= partial "layouts/paginationprevnext" %>
 
                 <!-- begin:blog-post-tags -->
