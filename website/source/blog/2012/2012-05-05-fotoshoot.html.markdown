@@ -1,9 +1,8 @@
 ---
-
 title: Fotoshoot
 date: 2012-05-05 00:00 UTC
-tags: 
-
+tags: fotoshoot
+carroussel: 9161_120942-E-0001.jpg,9162_120942-E-0002.jpg,9163_120942-E-0003.jpg,9167_120942-E-0004.jpg,9168_120942-E-0005.jpg,9172_120942-E-0006.jpg,9174_120942-E-0007.jpg,9183_120942-E-0008.jpg,9184_120942-E-0009.jpg,9189_120942-E-0010.jpg,9195_120942-E-0011.jpg,9200_120942-E-0012.jpg
 ---
-
+Fotoshoot van Danny & Thijmen.
 

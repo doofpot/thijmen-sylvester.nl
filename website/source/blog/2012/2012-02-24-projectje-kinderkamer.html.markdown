@@ -1,44 +1,16 @@
 ---
 title: Projectje kinderkamer
 date: 2012-02-24 23:14 UTC
-tags: uitjes
+tags: klussen
+carroussel: IMG_0346.jpg,IMG_0347.JPG,IMG_0348.jpg,IMG_0350.JPG,IMG_0351.jpg,IMG_0385.JPG,IMG_0388.JPG,IMG_0399.JPG,IMG_0400.jpg,IMG_0402.JPG,IMG_0403.JPG,IMG_0408.jpg,IMG_0410.jpg,IMG_0411.jpg,IMG_0486.jpg,IMG_0487.jpg,IMG_2784.jpg,IMG_2785.jpg,IMG_2786.jpg,IMG_2787.jpg
 ---
 Voor mijn geboorte is er begonnen met de verbouwing van mijn kinderkamer. Eerst zou deze beneden komen, maar toen dat te lang ging duren, is de logeerkamer boven mijn domein geworden.
+READMORE
 
 Voor ik geboren werd, is er veel discussie geweest over welke kamer nu mijn slaapkamer moest worden. Hier wat impressies van dit traject. Er is begonnen met een verbouwing van een kamer beneden, dit ging te lang duren en vandaar dat ik de logeerkamer boven heb gekregen. De kamer beneden is ver na mijn geboorte af gekomen.
 
-Dit is na enig sloopwerk
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-01.jpg){:class="img-responsive img-blog-single"}
-
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-02.jpg){:class="img-responsive img-blog-single"}
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-03.jpg){:class="img-responsive img-blog-single"}
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-04.jpg){:class="img-responsive img-blog-single"}
-
-Verder slopen 
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-05.jpg){:class="img-responsive img-blog-single"}
-
-Er zaten wat slechte plekken op de muur; repareren werd slopen 
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-06.jpg){:class="img-responsive img-blog-single"}
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-07.jpg){:class="img-responsive img-blog-single"}
-
-Een schone kamer, maar toen kwam er nog een dubbel plafond tussen uit. 
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-08.jpg){:class="img-responsive img-blog-single"}
-
-Ondertussen de logeerkamer; hier met de nieuwe schuifkast 
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-09.jpg){:class="img-responsive img-blog-single"}
-
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-11.jpg){:class="img-responsive img-blog-single"}
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-10.jpg){:class="img-responsive img-blog-single"}
-
-![](2012-02-24-projectje-kinderkamer/kinderkamer-12.jpg){:class="img-responsive img-blog-single"}
+- Dit is na enig sloopwerk
+- Verder slopen 
+- Er zaten wat slechte plekken op de muur; repareren werd slopen 
+- Een schone kamer, maar toen kwam er nog een dubbel plafond tussen uit. 
+- Ondertussen de logeerkamer; hier met de nieuwe schuifkast 

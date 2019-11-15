@@ -1,8 +1,8 @@
 ---
 title: Komt'ie
 date: 2012-03-27 23:14 UTC
-tags: uitjes
-carroussel: komtie-01.jpg,komtie-02.jpg,komtie-03.jpg,komtie-04.jpg
+tags: geboorte
+carroussel: IMG_0446.jpg,IMG_0447.jpg,IMG_0449.jpg
 ---
 Vliezen zijn gebroken. Naar het ziekenhuis en ... over maximaal drie dagen wordt de bevalling ingeleid.
 

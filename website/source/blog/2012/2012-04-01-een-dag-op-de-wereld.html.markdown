@@ -9,3 +9,5 @@ De foto's, direct op de eerte dag, 1 april. Dit is 's morgens
 Eerste keer wassen, eerste keer aankleden
 
 READMORE
+
+Alles nog nieuw en spannend.
