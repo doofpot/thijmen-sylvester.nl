@@ -1,8 +1,8 @@
 ---
-
 title: De familiedag 2012
 date: 2012-10-20 00:00 UTC
-tags: 
+tags: familiedag, uitje
+carroussel: 
 
 ---
 

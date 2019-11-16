@@ -1,9 +1,7 @@
 ---
-
 title: Klussen
 date: 2012-08-13 00:00 UTC
-tags: 
-
+tags: uitzoeken
+publish: draft
 ---
-
-
+Nu eindelijk rust van het klussen.

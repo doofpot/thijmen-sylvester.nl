@@ -1,9 +1,9 @@
 ---
-
 title: In bad
 date: 2012-09-22 00:00 UTC
-tags: 
-
+tags: uitzoeken
+carroussel: 20120924-224850.jpg,20120924-224922.jpg,20120924-224932.jpg,20120924-224941.jpg,20120924-224949.jpg
 ---
+Lekker in z'n tubby-tub
 
-
+(deze foto's even controleren op datum)
