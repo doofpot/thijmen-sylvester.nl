@@ -2,6 +2,6 @@
 title: De kapper
 date: 2013-01-21 00:00 UTC
 tags: kapper, oma
-carroussel:
+carroussel: IMG_1528.JPG,IMG_1529.JPG,IMG_1530.JPG,IMG_1531.JPG,IMG_1532.JPG,IMG_1533.JPG,IMG_1534.jpg,IMG_1535.jpg,IMG_1536.jpg,IMG_1537.jpg
 ---
-Oma probeert hier Thijmen te knippen. Heel handig
+Oma probeert hier Thijmen te knippen. Heel handig. Volgens mij nu de 2e keer
