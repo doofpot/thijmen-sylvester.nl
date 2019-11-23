@@ -2,7 +2,7 @@
 title: Avond-4-daagse 2019
 date: 2019-05-17 00:00 UTC
 tags: sport, uitzoeken
-carroussel:
+carroussel: IMG_9112.jpeg,IMG_9113.jpeg,IMG_9114.jpeg,IMG_9117.jpeg,IMG_9118.jpeg,IMG_9119.jpeg,IMG_9120.jpeg,IMG_9121.jpeg
 video:
 ---
 4 avonden gewandeld voor weer een medaille. De 2e avondvierdaagse van driehuis.

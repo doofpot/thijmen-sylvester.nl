@@ -2,7 +2,7 @@
 title: Moma, Pecs
 date: 2019-04-28 00:00 UTC
 tags: hongarije, uitje, uitzoeken
-carroussel: 
+carroussel: IMG_9048.jpeg,IMG_9053.jpeg,IMG_9060.jpeg,IMG_9061.jpeg,IMG_9064.jpeg,IMG_9065.jpeg,IMG_9066.jpeg,IMG_9067.jpeg
 videos:
 ---
 Mama wilde graag uitwaaien, maar bij gebrek aan tuincentrum, dan maar in de Moma (een soort Ikea) in Pecs. 

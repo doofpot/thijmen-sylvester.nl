@@ -1,9 +1,8 @@
 ---
-
 title: Familiedag 2019
 date: 2019-10-12 00:00 UTC
 tags: uitjes
-carroussel:
+carroussel: 59257932623__10470248-B8A6-4756-9663-20B3CE32F53F.jpeg,IMG_9730.jpeg,IMG_9731.jpeg,IMG_9734.jpeg,IMG_9735.jpeg,IMG_9736.jpeg,IMG_9737.jpeg,IMG_9738.jpeg,IMG_9740.jpeg,IMG_9741.jpeg,IMG_9742.jpeg,IMG_9743.jpeg,IMG_9744.jpeg
 ---
 Familiedag 2019 was naar de Bataviawerf in Lelystad. 
 

@@ -1,8 +1,8 @@
 ---
 title: Stemmen, maar dan toch net niet
 date: 2019-05-22 00:00 UTC
-tags: 
-carroussel:
+tags: kiezen, uitje
+carroussel: IMG_9133.jpeg
 ---
 22 mei, verkiezening. Wij uiteindelijk ons enorm gehaast om nog net voor 8 uur binnen te zijn. Staan we voor een dichte deur.
 
