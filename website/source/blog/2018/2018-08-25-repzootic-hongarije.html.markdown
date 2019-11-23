@@ -2,7 +2,7 @@
 title: Repzootic, Hongarije
 date: 2018-08-25 00:00 UTC
 tags: slang, uitje, hongarije
-carroussel:
+carroussel: IMG_8526.jpeg,IMG_8527.jpeg
 ---
 Samen met Richard naar Repzootic. Hier mocht hij heel veel dieren aaien en ook een slang vast houden.
 
