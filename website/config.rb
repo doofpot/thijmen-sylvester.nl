@@ -197,3 +197,28 @@ set :markdown, :fenced_code_blocks => true,
               :highlight => true,
               :superscript => true,
               :renderer => MarkdownHelper::MyRenderer
+
+# activate the extenstion
+
+activate :gibberish do |gibberish|
+  # set the default password
+
+    gibberish.password = 'vendeg-2019'
+
+  # encrypt a page with the default password
+
+    # gibberish.encrypt 'foo.html'
+
+  # encrypt a page with a different password
+
+    # gibberish.encrypt 'bar.html', 'p@55w0rd'
+
+  # encrypt at set of pages with the default password
+
+    # gibberish.encrypt 'seKrit/**/**'
+
+  # encrypt at set of pages with a different password
+
+    # gibberish.encrypt 'kayne/**/**', 'i can hold my liquor'
+    gibberish.encrypt 'blog/**/**'
+  end
