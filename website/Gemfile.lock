@@ -9,8 +9,8 @@ GIT
       ptools
 
 GIT
-  remote: https://github.com/ahoward/middleman-gibberish.git
-  revision: b67eda861438811baf51d5517f6cbea4413e9774
+  remote: https://github.com/marwann/gibberish-custom.git
+  revision: 570f58286ce4e4bf1bdd18997218de43eb9323c1
   specs:
     middleman-gibberish (0.7.0)
       gibberish (>= 1.3)
