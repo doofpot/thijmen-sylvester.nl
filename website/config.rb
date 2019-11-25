@@ -7,7 +7,8 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
-set :url_root, 'https://thijmen-sylvester.nl'
+# set :url_root, 'https://thijmen-sylvester.nl'
+set :url_root, 'http://diskstation-01.local'
 
 
 set :css_dir,     'stylesheets'
@@ -200,25 +201,25 @@ set :markdown, :fenced_code_blocks => true,
 
 # activate the extenstion
 
-activate :gibberish do |gibberish|
-  # set the default password
+# activate :gibberish do |gibberish|
+#   # set the default password
 
-    gibberish.password = 'vendeg-2019'
+#     gibberish.password = 'vendeg-2019'
 
-  # encrypt a page with the default password
+#   # encrypt a page with the default password
 
-    # gibberish.encrypt 'foo.html'
+#     # gibberish.encrypt 'foo.html'
 
-  # encrypt a page with a different password
+#   # encrypt a page with a different password
 
-    # gibberish.encrypt 'bar.html', 'p@55w0rd'
+#     # gibberish.encrypt 'bar.html', 'p@55w0rd'
 
-  # encrypt at set of pages with the default password
+#   # encrypt at set of pages with the default password
 
-    # gibberish.encrypt 'seKrit/**/**'
+#     # gibberish.encrypt 'seKrit/**/**'
 
-  # encrypt at set of pages with a different password
+#   # encrypt at set of pages with a different password
 
-    # gibberish.encrypt 'kayne/**/**', 'i can hold my liquor'
-    gibberish.encrypt 'blog/**/**'
-  end
+#     # gibberish.encrypt 'kayne/**/**', 'i can hold my liquor'
+#     gibberish.encrypt 'blog/**/*.html'
+#   end

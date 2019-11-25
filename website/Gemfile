@@ -44,5 +44,5 @@ gem 'middleman-deploy', github: 'middleman-contrib/middleman-deploy', branch: 'm
 gem "middleman-imageoptim", :git => "https://github.com/plasticine/middleman-imageoptim", :branch => "master"
 
 # gem 'middleman-gibberish', :git => 'https://github.com/ahoward/middleman-gibberish.git'
-gem 'middleman-gibberish', :git => 'https://github.com/marwann/gibberish-custom.git'
+# gem 'middleman-gibberish', :git => 'https://github.com/marwann/gibberish-custom.git'
 

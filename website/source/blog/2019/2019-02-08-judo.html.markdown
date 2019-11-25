@@ -1,9 +1,9 @@
 ---
 title: Judo
 date: 2019-02-08 00:00 UTC
-tags: sport, uitzoeken
+tags: sport
 carroussel: IMG_8821.jpeg,IMG_8822.jpeg,IMG_8823.jpeg,IMG_8824.jpeg
-video:
+video: 08-02-2019-thijmen-judo.mp4
 ---
 Een soort judo; heel veel sport en spel. 7 weken vanuit de sportmix.
 
