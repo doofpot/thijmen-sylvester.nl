@@ -9,3 +9,4 @@
 //= require magnificpopup.min.js
 //= require script.js
 //= require demo.js
+//= require video.min.js

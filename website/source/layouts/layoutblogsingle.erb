@@ -38,6 +38,13 @@
                           <div class="portfolio-magnify"><i class="fa fa-search-plus"></i></div>                          
                         <% end %>
                       <% end %>
+                      <% if (current_page.data.video) %>
+                        <%- video = current_page.data.video %>
+                        <video id="video" class="video-js" controls preload="auto" width="800" height="600"  data-setup="{}">
+                          <source src="<%= "/"+current_page.path.chomp(".html") + "/" + video %>" type="video/mp4" />
+                        </video>
+
+                      <% end %>
                     </div>
                   </div>
                 <% end %>
